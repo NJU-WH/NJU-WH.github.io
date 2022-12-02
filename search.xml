@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>祝我生日快乐</title>
+    <url>/2022/05/08/Happ%20Birthday%20To%20Me!/</url>
+    <content><![CDATA[<p><img src="https://tva1.sinaimg.cn/large/d61f9d3cly1h4ylqpbd5mj20aq0bgaej.jpg"></p>
+<p>​                                         <strong>弱冠之年，万事顺遂！</strong></p>
+]]></content>
+      <categories>
+        <category>生活随笔</category>
+      </categories>
+      <tags>
+        <tag>👤其他</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>站点更新记录 | Web Update Record</title>
+    <url>/2022/05/06/Update%20Records/</url>
+    <content><![CDATA[<h1 id="站点更新记录"><a href="#站点更新记录" class="headerlink" title="站点更新记录"></a>站点更新记录</h1><h2 id="2022-4"><a href="#2022-4" class="headerlink" title="2022/4"></a>2022/4</h2><h3 id="2022-4-25"><a href="#2022-4-25" class="headerlink" title="2022/4/25"></a>2022/4/25</h3><ol>
+<li><p>subtitle引入主页”每日诗词“API并加打字机效果</p>
+</li>
+<li><p>设计网页icon并引入</p>
+</li>
+<li><p>编辑个人介绍页面</p>
+</li>
+</ol>
+<h3 id="2022-4-26"><a href="#2022-4-26" class="headerlink" title="2022/4/26"></a>2022/4/26</h3><ol>
+<li><p>引入且拓展社交平台链接</p>
+</li>
+<li><p>发布在github，链接：nju-wh.github.io</p>
+</li>
+</ol>
+<h3 id="2022-4-27"><a href="#2022-4-27" class="headerlink" title="2022/4/27"></a>2022/4/27</h3><ol>
+<li>引入local_search的本地查找功能</li>
+</ol>
+<h2 id="2022-5"><a href="#2022-5" class="headerlink" title="2022/5"></a>2022/5</h2><h3 id="2022-5-1"><a href="#2022-5-1" class="headerlink" title="2022/5/1"></a>2022/5/1</h3><ol>
+<li>取消主页nav的文字，将除搜索、信息、主页外的内容放入menu中</li>
+<li>引入Valine评论</li>
+<li>引入Artitalk说说</li>
+<li>引入gitter</li>
+<li>引入Aplayer全局吸底音乐播放器并引入QQ音乐歌单</li>
+<li>修改title、subtitle大小和位置</li>
+</ol>
+<h3 id="2022-5-2"><a href="#2022-5-2" class="headerlink" title="2022/5/2"></a>2022/5/2</h3><ol>
+<li><p>引入侧边栏-诗词模块</p>
+</li>
+<li><p>引入busuanzi字数统计</p>
+</li>
+</ol>
+<h3 id="2022-5-5"><a href="#2022-5-5" class="headerlink" title="2022/5/5"></a>2022/5/5</h3><ol>
+<li><p>设置Aplayer侧吸入最小化</p>
+</li>
+<li><p>设置轮播主页图</p>
+</li>
+<li><p>拓展字体库</p>
+</li>
+<li><p>透明度修改（一图流）</p>
+</li>
+</ol>
+<h3 id="2022-5-6"><a href="#2022-5-6" class="headerlink" title="2022/5/6"></a>2022/5/6</h3><ol>
+<li><p>全站字体调整优化（主副标题、卡片、全局）</p>
+</li>
+<li><p>更新加载动画</p>
+</li>
+</ol>
+<h3 id="2022-5-7"><a href="#2022-5-7" class="headerlink" title="2022/5/7"></a>2022/5/7</h3><ol>
+<li><p>引入github calendar</p>
+</li>
+<li><p>修复主页轮播图偶发加载为空情况</p>
+</li>
+<li><p>通过github action进行自动部署</p>
+</li>
+</ol>
+<h3 id="2022-5-9"><a href="#2022-5-9" class="headerlink" title="2022/5/9"></a>2022/5/9</h3><ol>
+<li><p>picgo+千牛云搭建图床，并上传网站图片至千牛云</p>
+</li>
+<li><p>绑定顶级域名 njuwh.top</p>
+</li>
+<li><p>添加新分类和标签</p>
+</li>
+</ol>
+<h3 id="2022-5-12"><a href="#2022-5-12" class="headerlink" title="2022/5/12"></a>2022/5/12</h3><ol>
+<li><p>引入live2d插件（看板娘）</p>
+</li>
+<li><p>调整搜索框、版权信息、文章末尾分页符颜色等</p>
+</li>
+<li><p>引入访客地图</p>
+</li>
+<li><p>优化移动端界面显示（@media screen）字体大小/模块显示</p>
+</li>
+</ol>
+<h3 id="2022-5-13"><a href="#2022-5-13" class="headerlink" title="2022/5/13"></a>2022/5/13</h3><ol>
+<li>引入pdf阅读组件</li>
+<li>引入bilibili视频播放插件及添加bilibili视频展示</li>
+</ol>
+<h3 id="2022-5-31"><a href="#2022-5-31" class="headerlink" title="2022/5/31"></a>2022/5/31</h3><ol>
+<li><p>全面替换jsdeliver的链接（大陆无法正常访问）</p>
+</li>
+<li><p>删去访客地图以提升访问速度</p>
+</li>
+<li><p>引入更多cdn提升访问速度</p>
+</li>
+<li><p>新建相册</p>
+</li>
+<li><p>更换图床服务提供商为：”<a href="https://imgloc.com/&quot;">https://imgloc.com/&quot;</a></p>
+</li>
+<li><p>引入豆瓣图书、电影模块</p>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>站点维护</category>
+      </categories>
+      <tags>
+        <tag>👤其他</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>关于我 | About Me</title>
+    <url>/2022/04/25/index/</url>
+    <content><![CDATA[<h1 id="Me"><a href="#Me" class="headerlink" title="Me"></a>Me</h1><p>王昊 Antonio</p>
+<p>00后  金牛座 南京大学本科二年级在读</p>
+<p>Generation Z  Taurus  NJUer</p>
+<h1 id="Motto"><a href="#Motto" class="headerlink" title="Motto"></a>Motto</h1><blockquote>
+<p><em>To see the world,</em></p>
+<p><em>things dangerous to come to,</em></p>
+<p><em>to see behind walls,</em></p>
+<p><em>to draw closer,</em></p>
+<p><em>to find each other and to feel.</em></p>
+<p><em>That is the purpose of LIFE.</em></p>
+<p><em>开拓视野，冲破艰险，洞悉所有，贴近生活，寻找真爱，感受彼此。</em></p>
+<p><em>这就是人生的目的。</em></p>
+</blockquote>
+<h1 id="Details"><a href="#Details" class="headerlink" title="Details"></a>Details</h1><ul>
+<li><p>南京大学 信息管理与信息系统 大二在读 | NJU IMIS Sophomore</p>
+</li>
+<li><p>一个奇怪的INFJ-A | A strange INFJ-A.</p>
+</li>
+<li><p>哆啦A梦死忠粉 | Doraemon loyal fans</p>
+</li>
+<li><p>GIS、交通、放送文化…….都感兴趣（怪 | GIS, transportation, media culture….All interested. (ahhh)</p>
+</li>
+<li><p>致力于生命健康教育，经南京市红十字会培训的同伴教育主持人 | Committed to life and health education, peer education host trained by Nanjing Red Cross Society</p>
+</li>
+<li><p>html/css、C/C++ 、R 、Tableau 、Python、SQL、SPSS、Stata好像都会些（？ </p>
+</li>
+<li><p>有一个环游世界的梦 | Have a dream of traveling around the world</p>
+</li>
+</ul>
+<h1 id="Contact"><a href="#Contact" class="headerlink" title="Contact"></a>Contact</h1><p><strong>微博/Weibo：</strong>AntonioWH | <a href="https://weibo.com/3592396092">https://weibo.com/3592396092</a></p>
+<p><strong>微信公众号/WeChat ：</strong></p>
+<p><strong>豆瓣/Douban：</strong></p>
+<p><strong>Bilibili：</strong>WHANTONIO | <a href="https://space.bilibili.com/32775257">https://space.bilibili.com/32775257</a>      （跪求一键三连）</p>
+<p><strong>Youtube：</strong></p>
+<p><strong>Instgram：</strong></p>
+<p><strong>Facebook：</strong></p>
+<p><strong>Github：</strong></p>
+<p><strong>Gitee：</strong></p>
+<p><strong>E-Mail：</strong><a href="mailto:&#110;&#106;&#x75;&#119;&#x68;&#x40;&#x68;&#111;&#x74;&#x6d;&#x61;&#x69;&#108;&#46;&#x63;&#111;&#x6d;">&#110;&#106;&#x75;&#119;&#x68;&#x40;&#x68;&#111;&#x74;&#x6d;&#x61;&#x69;&#108;&#46;&#x63;&#111;&#x6d;</a></p>
+<p><strong>来信地址/Address：</strong>中华人民共和国江苏省南京市栖霞区仙林大道163号南京大学（仙林校区）</p>
+<p>Nanjing University (Xianlin Campus),No. 163 Xianlin Avenue, Qixia District, Nanjing City, Jiangsu Province, P.R. China</p>
+]]></content>
+      <categories>
+        <category>站点维护</category>
+      </categories>
+      <tags>
+        <tag>👤其他</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>使用R语言绘制圣诞树|Use-R-To-Draw-A-ChristmasTree</title>
+    <url>/2022/05/09/UseRDrawChritmasTree/</url>
+    <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>通过<strong>R语言</strong>的<strong>ggplot2</strong>包及<strong>ggThemeAssist</strong>包根据预先导入的数据绘制圣诞树</p>
+<h2 id="画图步骤"><a href="#画图步骤" class="headerlink" title="画图步骤"></a>画图步骤</h2><h3 id="Step-1：绘制一颗基础的树"><a href="#Step-1：绘制一颗基础的树" class="headerlink" title="Step 1：绘制一颗基础的树"></a>Step 1：绘制一颗基础的树</h3><p>这里选择一棵圣诞树的图片，对其进行网格划分，并将结果存在表格中。</p>
+<p>数据集和源码均可在GitHub仓库中获取：<a href="https://github.com/NJU-WH/Use-R-To-Draw-A-ChristmasTree-">https://github.com/NJU-WH/Use-R-To-Draw-A-ChristmasTree-</a></p>
+<figure class="highlight r"><table><tr><td class="code"><pre><span class="line"><span class="comment">#将数据导入项目中，路径根据自己保存的位置进行调整</span></span><br><span class="line">ChristmasTree <span class="operator">&lt;-</span> read.csv<span class="punctuation">(</span><span class="string">&quot;.......\\Christmas_tree.csv&quot;</span><span class="punctuation">)</span></span><br><span class="line"></span><br><span class="line"><span class="comment">#载入ggplot2程揖包</span></span><br><span class="line"><span class="comment">#若未提前安装程揖包需在console窗口执行以下指令</span></span><br><span class="line"><span class="comment">#install.package(&quot;ggplot2&quot;)</span></span><br><span class="line">library<span class="punctuation">(</span>ggplot2<span class="punctuation">)</span></span><br><span class="line"></span><br><span class="line"><span class="comment">#通过ggplot2包进行绘制</span></span><br><span class="line">tree <span class="operator">&lt;-</span> ggplot<span class="punctuation">(</span><span class="punctuation">)</span> <span class="operator">+</span> </span><br><span class="line">  geom_tile<span class="punctuation">(</span>data <span class="operator">=</span> ChristmasTree<span class="punctuation">,</span> aes<span class="punctuation">(</span>x <span class="operator">=</span> Tree.X<span class="punctuation">,</span> y <span class="operator">=</span> Tree.Y<span class="punctuation">,</span> fill <span class="operator">=</span> Tree.Colour<span class="punctuation">)</span><span class="punctuation">)</span> <span class="operator">+</span>       </span><br><span class="line">  scale_fill_identity<span class="punctuation">(</span><span class="punctuation">)</span> <span class="operator">+</span> </span><br><span class="line">  theme_bw<span class="punctuation">(</span><span class="punctuation">)</span> <span class="operator">+</span></span><br><span class="line">  scale_x_continuous<span class="punctuation">(</span>breaks <span class="operator">=</span> <span class="literal">NULL</span><span class="punctuation">)</span> <span class="operator">+</span> </span><br><span class="line">  scale_y_continuous<span class="punctuation">(</span>breaks <span class="operator">=</span> <span class="literal">NULL</span><span class="punctuation">)</span> <span class="operator">+</span></span><br><span class="line">  labs<span class="punctuation">(</span>x <span class="operator">=</span> <span class="string">&quot;&quot;</span><span class="punctuation">,</span> y <span class="operator">=</span> <span class="string">&quot;&quot;</span><span class="punctuation">)</span></span><br><span class="line">tree</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<p><strong>参数解释</strong></p>
+<p>geom_tile() ：该函数将每个数据点都绘制成一个实心的正方形。</p>
+<p>theme_bw()：该函数将背景颜色更改为白色。</p>
+<p>scale_x_continuous(breaks = NULL)：该函数将x轴标记和网格线去掉。</p>
+<p>scale_y_continuxous(breaks = NULL)：该函数将y轴标记和网格线去掉。</p>
+<p>labs(x = “”, y = “”)：该函数将坐标轴删去。</p>
+<p><strong>运行后效果如下：</strong></p>
+<p><img src="https://s1.328888.xyz/2022/06/01/5SKOt.png" alt="5SKOt.png"></p>
+<h3 id="Step-2：添加灯饰"><a href="#Step-2：添加灯饰" class="headerlink" title="Step 2：添加灯饰"></a>Step 2：添加灯饰</h3><p>现在就来往圣诞树上挂“灯饰”，这一过程通过在之前绘制好的基础树图上叠加散点实现。这些散点的坐标是基于均匀分布随机产生的。</p>
+<p>示例代码中给灯设置的数量是 50 ，底部分布的数量为 35% ，顶部为 5% ，参数值可以根据个人想法修改。</p>
+<p>最后一个变量的值从1到4，用以控制每个点的透明度。</p>
+<figure class="highlight r"><table><tr><td class="code"><pre><span class="line"><span class="comment">##创建灯饰</span></span><br><span class="line">Desired.Lights <span class="operator">&lt;-</span> 50</span><br><span class="line">Total.Lights <span class="operator">&lt;-</span> <span class="built_in">sum</span><span class="punctuation">(</span><span class="built_in">round</span><span class="punctuation">(</span>Desired.Lights <span class="operator">*</span> <span class="number">0.35</span><span class="punctuation">)</span> <span class="operator">+</span> <span class="built_in">round</span><span class="punctuation">(</span>Desired.Lights <span class="operator">*</span> <span class="number">0.20</span><span class="punctuation">)</span> <span class="operator">+</span> </span><br><span class="line">                      <span class="built_in">round</span><span class="punctuation">(</span>Desired.Lights <span class="operator">*</span> <span class="number">0.17</span><span class="punctuation">)</span> <span class="operator">+</span> <span class="built_in">round</span><span class="punctuation">(</span>Desired.Lights <span class="operator">*</span> <span class="number">0.13</span><span class="punctuation">)</span> <span class="operator">+</span></span><br><span class="line">                      <span class="built_in">round</span><span class="punctuation">(</span>Desired.Lights <span class="operator">*</span> <span class="number">0.10</span><span class="punctuation">)</span> <span class="operator">+</span> <span class="built_in">round</span><span class="punctuation">(</span>Desired.Lights <span class="operator">*</span> <span class="number">0.05</span><span class="punctuation">)</span><span class="punctuation">)</span></span><br><span class="line"></span><br><span class="line">Lights <span class="operator">&lt;-</span> data.frame<span class="punctuation">(</span>Lights.X <span class="operator">=</span> <span class="built_in">c</span><span class="punctuation">(</span><span class="built_in">round</span><span class="punctuation">(</span>runif<span class="punctuation">(</span><span class="built_in">round</span><span class="punctuation">(</span>Desired.Lights <span class="operator">*</span> <span class="number">0.35</span><span class="punctuation">)</span><span class="punctuation">,</span> <span class="number">4</span><span class="punctuation">,</span> <span class="number">18</span><span class="punctuation">)</span><span class="punctuation">,</span> <span class="number">0</span><span class="punctuation">)</span><span class="punctuation">,</span></span><br><span class="line">                                       <span class="built_in">round</span><span class="punctuation">(</span>runif<span class="punctuation">(</span><span class="built_in">round</span><span class="punctuation">(</span>Desired.Lights <span class="operator">*</span> <span class="number">0.20</span><span class="punctuation">)</span><span class="punctuation">,</span> <span class="number">5</span><span class="punctuation">,</span> <span class="number">17</span><span class="punctuation">)</span><span class="punctuation">,</span> <span class="number">0</span><span class="punctuation">)</span><span class="punctuation">,</span></span><br><span class="line">                                       <span class="built_in">round</span><span class="punctuation">(</span>runif<span class="punctuation">(</span><span class="built_in">round</span><span class="punctuation">(</span>Desired.Lights <span class="operator">*</span> <span class="number">0.17</span><span class="punctuation">)</span><span class="punctuation">,</span> <span class="number">6</span><span class="punctuation">,</span> <span class="number">16</span><span class="punctuation">)</span><span class="punctuation">,</span> <span class="number">0</span><span class="punctuation">)</span><span class="punctuation">,</span></span><br><span class="line">                                       <span class="built_in">round</span><span class="punctuation">(</span>runif<span class="punctuation">(</span><span class="built_in">round</span><span class="punctuation">(</span>Desired.Lights <span class="operator">*</span> <span class="number">0.13</span><span class="punctuation">)</span><span class="punctuation">,</span> <span class="number">7</span><span class="punctuation">,</span> <span class="number">15</span><span class="punctuation">)</span><span class="punctuation">,</span> <span class="number">0</span><span class="punctuation">)</span><span class="punctuation">,</span></span><br><span class="line">                                       <span class="built_in">round</span><span class="punctuation">(</span>runif<span class="punctuation">(</span><span class="built_in">round</span><span class="punctuation">(</span>Desired.Lights <span class="operator">*</span> <span class="number">0.10</span><span class="punctuation">)</span><span class="punctuation">,</span> <span class="number">8</span><span class="punctuation">,</span> <span class="number">14</span><span class="punctuation">)</span><span class="punctuation">,</span> <span class="number">0</span><span class="punctuation">)</span><span class="punctuation">,</span></span><br><span class="line">                                       <span class="built_in">round</span><span class="punctuation">(</span>runif<span class="punctuation">(</span><span class="built_in">round</span><span class="punctuation">(</span>Desired.Lights <span class="operator">*</span> <span class="number">0.05</span><span class="punctuation">)</span><span class="punctuation">,</span> <span class="number">10</span><span class="punctuation">,</span> <span class="number">12</span><span class="punctuation">)</span><span class="punctuation">,</span> <span class="number">0</span><span class="punctuation">)</span><span class="punctuation">)</span><span class="punctuation">)</span></span><br><span class="line">Lights<span class="operator">$</span>Lights.Y <span class="operator">&lt;-</span> <span class="built_in">c</span><span class="punctuation">(</span><span class="built_in">round</span><span class="punctuation">(</span>runif<span class="punctuation">(</span><span class="built_in">round</span><span class="punctuation">(</span>Desired.Lights <span class="operator">*</span> <span class="number">0.35</span><span class="punctuation">)</span><span class="punctuation">,</span> <span class="number">4</span><span class="punctuation">,</span> <span class="number">6</span><span class="punctuation">)</span><span class="punctuation">,</span> <span class="number">0</span><span class="punctuation">)</span><span class="punctuation">,</span></span><br><span class="line">                          <span class="built_in">round</span><span class="punctuation">(</span>runif<span class="punctuation">(</span><span class="built_in">round</span><span class="punctuation">(</span>Desired.Lights <span class="operator">*</span> <span class="number">0.20</span><span class="punctuation">)</span><span class="punctuation">,</span> <span class="number">7</span><span class="punctuation">,</span> <span class="number">8</span><span class="punctuation">)</span><span class="punctuation">,</span> <span class="number">0</span><span class="punctuation">)</span><span class="punctuation">,</span></span><br><span class="line">                          <span class="built_in">round</span><span class="punctuation">(</span>runif<span class="punctuation">(</span><span class="built_in">round</span><span class="punctuation">(</span>Desired.Lights <span class="operator">*</span> <span class="number">0.17</span><span class="punctuation">)</span><span class="punctuation">,</span> <span class="number">9</span><span class="punctuation">,</span> <span class="number">10</span><span class="punctuation">)</span><span class="punctuation">,</span> <span class="number">0</span><span class="punctuation">)</span><span class="punctuation">,</span></span><br><span class="line">                          <span class="built_in">round</span><span class="punctuation">(</span>runif<span class="punctuation">(</span><span class="built_in">round</span><span class="punctuation">(</span>Desired.Lights <span class="operator">*</span> <span class="number">0.13</span><span class="punctuation">)</span><span class="punctuation">,</span> <span class="number">11</span><span class="punctuation">,</span> <span class="number">12</span><span class="punctuation">)</span><span class="punctuation">,</span> <span class="number">0</span><span class="punctuation">)</span><span class="punctuation">,</span></span><br><span class="line">                          <span class="built_in">round</span><span class="punctuation">(</span>runif<span class="punctuation">(</span><span class="built_in">round</span><span class="punctuation">(</span>Desired.Lights <span class="operator">*</span> <span class="number">0.10</span><span class="punctuation">)</span><span class="punctuation">,</span> <span class="number">13</span><span class="punctuation">,</span> <span class="number">14</span><span class="punctuation">)</span><span class="punctuation">,</span> <span class="number">0</span><span class="punctuation">)</span><span class="punctuation">,</span></span><br><span class="line">                          <span class="built_in">round</span><span class="punctuation">(</span>runif<span class="punctuation">(</span><span class="built_in">round</span><span class="punctuation">(</span>Desired.Lights <span class="operator">*</span> <span class="number">0.05</span><span class="punctuation">)</span><span class="punctuation">,</span> <span class="number">15</span><span class="punctuation">,</span> <span class="number">17</span><span class="punctuation">)</span><span class="punctuation">,</span> <span class="number">0</span><span class="punctuation">)</span><span class="punctuation">)</span></span><br><span class="line">Lights<span class="operator">$</span>Lights.Colour <span class="operator">&lt;-</span> <span class="built_in">c</span><span class="punctuation">(</span><span class="built_in">round</span><span class="punctuation">(</span>runif<span class="punctuation">(</span>Total.Lights<span class="punctuation">,</span> <span class="number">1</span><span class="punctuation">,</span> <span class="number">4</span><span class="punctuation">)</span><span class="punctuation">,</span> <span class="number">0</span><span class="punctuation">)</span><span class="punctuation">)</span></span><br><span class="line"><span class="comment">##将灯添加到树上</span></span><br><span class="line">tree <span class="operator">&lt;-</span> tree <span class="operator">+</span></span><br><span class="line">          geom_point<span class="punctuation">(</span>data <span class="operator">=</span> Lights<span class="punctuation">,</span> aes<span class="punctuation">(</span>x <span class="operator">=</span> Lights.X<span class="punctuation">,</span> y <span class="operator">=</span> Lights.Y<span class="punctuation">,</span> alpha <span class="operator">=</span> Lights.Colour<span class="punctuation">)</span><span class="punctuation">,</span></span><br><span class="line">                     colour <span class="operator">=</span> <span class="string">&quot;lightgoldenrodyellow&quot;</span><span class="punctuation">,</span> shape <span class="operator">=</span> <span class="number">16</span><span class="punctuation">)</span> <span class="operator">+</span></span><br><span class="line">          theme<span class="punctuation">(</span>legend.position <span class="operator">=</span> <span class="string">&quot;none&quot;</span><span class="punctuation">)</span></span><br><span class="line">tree</span><br></pre></td></tr></table></figure>
+
+<p><strong>运行后效果如下：</strong></p>
+<p><img src="https://s1.328888.xyz/2022/06/01/5SOxe.png" alt="5SOxe.png"></p>
+<h3 id="Step-3：添加装饰物"><a href="#Step-3：添加装饰物" class="headerlink" title="Step 3：添加装饰物"></a>Step 3：添加装饰物</h3><p>在第二步的图上添加了另一种散点(这一次是加权散点)。手动绘制了每个点的坐标，并手动分配每个点的颜色和大小。也可以任意修改这些位置和大小。</p>
+<figure class="highlight r"><table><tr><td class="code"><pre><span class="line"><span class="comment">##创建装饰物</span></span><br><span class="line">Baubles <span class="operator">&lt;-</span> data.frame<span class="punctuation">(</span>Bauble.X <span class="operator">=</span> <span class="built_in">c</span><span class="punctuation">(</span><span class="number">6</span><span class="punctuation">,</span> <span class="number">9</span><span class="punctuation">,</span> <span class="number">15</span><span class="punctuation">,</span> <span class="number">17</span><span class="punctuation">,</span> <span class="number">5</span><span class="punctuation">,</span> <span class="number">13</span><span class="punctuation">,</span> <span class="number">16</span><span class="punctuation">,</span> <span class="number">7</span><span class="punctuation">,</span> <span class="number">10</span><span class="punctuation">,</span> <span class="number">14</span><span class="punctuation">,</span> <span class="number">7</span><span class="punctuation">,</span> <span class="number">9</span><span class="punctuation">,</span> <span class="number">11</span><span class="punctuation">,</span> </span><br><span class="line">                                   <span class="number">14</span><span class="punctuation">,</span> <span class="number">8</span><span class="punctuation">,</span> <span class="number">14</span><span class="punctuation">,</span> <span class="number">9</span><span class="punctuation">,</span> <span class="number">12</span><span class="punctuation">,</span> <span class="number">11</span><span class="punctuation">,</span> <span class="number">12</span><span class="punctuation">,</span> <span class="number">14</span><span class="punctuation">,</span> <span class="number">11</span><span class="punctuation">,</span> <span class="number">17</span><span class="punctuation">,</span> <span class="number">10</span><span class="punctuation">)</span><span class="punctuation">)</span></span><br><span class="line">Baubles<span class="operator">$</span>Bauble.Y <span class="operator">&lt;-</span> <span class="built_in">c</span><span class="punctuation">(</span><span class="number">4</span><span class="punctuation">,</span> <span class="number">5</span><span class="punctuation">,</span> <span class="number">4</span><span class="punctuation">,</span> <span class="number">4</span><span class="punctuation">,</span> <span class="number">5</span><span class="punctuation">,</span> <span class="number">5</span><span class="punctuation">,</span> <span class="number">5</span><span class="punctuation">,</span> <span class="number">6</span><span class="punctuation">,</span> <span class="number">6</span><span class="punctuation">,</span> <span class="number">6</span><span class="punctuation">,</span> <span class="number">8</span><span class="punctuation">,</span> <span class="number">8</span><span class="punctuation">,</span> <span class="number">8</span><span class="punctuation">,</span> <span class="number">8</span><span class="punctuation">,</span> <span class="number">10</span><span class="punctuation">,</span></span><br><span class="line">                      <span class="number">10</span><span class="punctuation">,</span> <span class="number">11</span><span class="punctuation">,</span> <span class="number">11</span><span class="punctuation">,</span> <span class="number">12</span><span class="punctuation">,</span> <span class="number">13</span><span class="punctuation">,</span> <span class="number">10</span><span class="punctuation">,</span> <span class="number">16</span><span class="punctuation">,</span> <span class="number">7</span><span class="punctuation">,</span> <span class="number">14</span><span class="punctuation">)</span></span><br><span class="line">Baubles<span class="operator">$</span>Bauble.Colour <span class="operator">&lt;-</span> factor<span class="punctuation">(</span><span class="built_in">c</span><span class="punctuation">(</span><span class="number">1</span><span class="punctuation">,</span> <span class="number">2</span><span class="punctuation">,</span> <span class="number">2</span><span class="punctuation">,</span> <span class="number">3</span><span class="punctuation">,</span> <span class="number">2</span><span class="punctuation">,</span> <span class="number">3</span><span class="punctuation">,</span> <span class="number">1</span><span class="punctuation">,</span> <span class="number">3</span><span class="punctuation">,</span> <span class="number">1</span><span class="punctuation">,</span> <span class="number">1</span><span class="punctuation">,</span> <span class="number">1</span><span class="punctuation">,</span> <span class="number">2</span><span class="punctuation">,</span> <span class="number">1</span><span class="punctuation">,</span> <span class="number">2</span><span class="punctuation">,</span></span><br><span class="line">                                  <span class="number">3</span><span class="punctuation">,</span> <span class="number">3</span><span class="punctuation">,</span> <span class="number">2</span><span class="punctuation">,</span> <span class="number">1</span><span class="punctuation">,</span> <span class="number">3</span><span class="punctuation">,</span> <span class="number">2</span><span class="punctuation">,</span> <span class="number">1</span><span class="punctuation">,</span> <span class="number">3</span><span class="punctuation">,</span> <span class="number">3</span><span class="punctuation">,</span> <span class="number">1</span><span class="punctuation">)</span><span class="punctuation">)</span></span><br><span class="line">Baubles<span class="operator">$</span>Bauble.Size <span class="operator">&lt;-</span> <span class="built_in">c</span><span class="punctuation">(</span><span class="number">1</span><span class="punctuation">,</span> <span class="number">3</span><span class="punctuation">,</span> <span class="number">1</span><span class="punctuation">,</span> <span class="number">1</span><span class="punctuation">,</span> <span class="number">2</span><span class="punctuation">,</span> <span class="number">1</span><span class="punctuation">,</span> <span class="number">2</span><span class="punctuation">,</span> <span class="number">2</span><span class="punctuation">,</span> <span class="number">2</span><span class="punctuation">,</span> <span class="number">1</span><span class="punctuation">,</span> <span class="number">1</span><span class="punctuation">,</span> <span class="number">1</span><span class="punctuation">,</span> <span class="number">3</span><span class="punctuation">,</span> <span class="number">3</span><span class="punctuation">,</span> <span class="number">3</span><span class="punctuation">,</span></span><br><span class="line">                         <span class="number">2</span><span class="punctuation">,</span> <span class="number">3</span><span class="punctuation">,</span> <span class="number">1</span><span class="punctuation">,</span> <span class="number">1</span><span class="punctuation">,</span> <span class="number">2</span><span class="punctuation">,</span> <span class="number">2</span><span class="punctuation">,</span> <span class="number">3</span><span class="punctuation">,</span> <span class="number">3</span><span class="punctuation">,</span> <span class="number">2</span><span class="punctuation">)</span></span><br><span class="line">                         </span><br><span class="line"><span class="comment">##将装饰物添加到树上</span></span><br><span class="line">tree <span class="operator">&lt;-</span> tree <span class="operator">+</span> </span><br><span class="line">          geom_point<span class="punctuation">(</span>data <span class="operator">=</span> Baubles<span class="punctuation">,</span> aes<span class="punctuation">(</span>x <span class="operator">=</span> Bauble.X<span class="punctuation">,</span> y <span class="operator">=</span> Bauble.Y<span class="punctuation">,</span> </span><br><span class="line">                                         colour <span class="operator">=</span> Bauble.Colour<span class="punctuation">,</span> size <span class="operator">=</span> Bauble.Size<span class="punctuation">)</span><span class="punctuation">,</span></span><br><span class="line">                     shape <span class="operator">=</span> <span class="number">16</span><span class="punctuation">)</span> <span class="operator">+</span></span><br><span class="line">          scale_colour_manual<span class="punctuation">(</span>values <span class="operator">=</span> <span class="built_in">c</span><span class="punctuation">(</span><span class="string">&quot;firebrick2&quot;</span><span class="punctuation">,</span> <span class="string">&quot;gold&quot;</span><span class="punctuation">,</span> <span class="string">&quot;dodgerblue3&quot;</span><span class="punctuation">)</span><span class="punctuation">)</span> <span class="operator">+</span></span><br><span class="line">          scale_size_area<span class="punctuation">(</span>max_size <span class="operator">=</span> <span class="number">12</span><span class="punctuation">)</span></span><br><span class="line">tree</span><br></pre></td></tr></table></figure>
+
+<p><strong>运行后效果如下：</strong></p>
+<p><img src="https://s1.328888.xyz/2022/06/01/5SkhO.png" alt="5SkhO.png"></p>
+<h3 id="Step-4：装饰礼物"><a href="#Step-4：装饰礼物" class="headerlink" title="Step 4：装饰礼物"></a>Step 4：装饰礼物</h3><p>树下的礼物看起来太单调了，可以用缎带来装饰一下，使用 geom_segment() 函数来实现这一点。</p>
+<figure class="highlight r"><table><tr><td class="code"><pre><span class="line">tree <span class="operator">&lt;-</span> tree <span class="operator">+</span></span><br><span class="line">  geom_segment<span class="punctuation">(</span>aes<span class="punctuation">(</span>x <span class="operator">=</span> <span class="number">2.5</span><span class="punctuation">,</span> xend <span class="operator">=</span> <span class="number">4.5</span><span class="punctuation">,</span> y <span class="operator">=</span> <span class="number">1.5</span><span class="punctuation">,</span> yend <span class="operator">=</span> <span class="number">1.5</span><span class="punctuation">)</span><span class="punctuation">,</span> colour <span class="operator">=</span> <span class="string">&quot;lightgrey&quot;</span><span class="punctuation">,</span> size <span class="operator">=</span> <span class="number">2</span><span class="punctuation">)</span> <span class="operator">+</span> </span><br><span class="line">  geom_segment<span class="punctuation">(</span>aes<span class="punctuation">(</span>x <span class="operator">=</span> <span class="number">5.5</span><span class="punctuation">,</span> xend <span class="operator">=</span> <span class="number">8.5</span><span class="punctuation">,</span> y <span class="operator">=</span> <span class="number">1.5</span><span class="punctuation">,</span> yend <span class="operator">=</span> <span class="number">1.5</span><span class="punctuation">)</span><span class="punctuation">,</span> colour <span class="operator">=</span> <span class="string">&quot;gold&quot;</span><span class="punctuation">,</span> size <span class="operator">=</span> <span class="number">2</span><span class="punctuation">)</span> <span class="operator">+</span></span><br><span class="line">  geom_segment<span class="punctuation">(</span>aes<span class="punctuation">(</span>x <span class="operator">=</span> <span class="number">13.5</span><span class="punctuation">,</span> xend <span class="operator">=</span> <span class="number">16.5</span><span class="punctuation">,</span> y <span class="operator">=</span> <span class="number">1.5</span><span class="punctuation">,</span> yend <span class="operator">=</span> <span class="number">1.5</span><span class="punctuation">)</span><span class="punctuation">,</span> colour <span class="operator">=</span> <span class="string">&quot;black&quot;</span><span class="punctuation">,</span> size <span class="operator">=</span> <span class="number">2</span><span class="punctuation">)</span> <span class="operator">+</span></span><br><span class="line">  geom_segment<span class="punctuation">(</span>aes<span class="punctuation">(</span>x <span class="operator">=</span> <span class="number">17.5</span><span class="punctuation">,</span> xend <span class="operator">=</span> <span class="number">19.5</span><span class="punctuation">,</span> y <span class="operator">=</span> <span class="number">1.5</span><span class="punctuation">,</span> yend <span class="operator">=</span> <span class="number">1.5</span><span class="punctuation">)</span><span class="punctuation">,</span> colour <span class="operator">=</span> <span class="string">&quot;#00BFFF&quot;</span><span class="punctuation">,</span> size <span class="operator">=</span> <span class="number">2</span><span class="punctuation">)</span> <span class="operator">+</span></span><br><span class="line">  geom_segment<span class="punctuation">(</span>aes<span class="punctuation">(</span>x <span class="operator">=</span> <span class="number">3.5</span><span class="punctuation">,</span> xend <span class="operator">=</span> <span class="number">3.5</span><span class="punctuation">,</span> y <span class="operator">=</span> <span class="number">0.5</span><span class="punctuation">,</span> yend <span class="operator">=</span> <span class="number">2.5</span><span class="punctuation">)</span><span class="punctuation">,</span> colour <span class="operator">=</span> <span class="string">&quot;lightgrey&quot;</span><span class="punctuation">,</span> size <span class="operator">=</span> <span class="number">2</span><span class="punctuation">)</span> <span class="operator">+</span></span><br><span class="line">  geom_segment<span class="punctuation">(</span>aes<span class="punctuation">(</span>x <span class="operator">=</span> <span class="number">7.0</span><span class="punctuation">,</span> xend <span class="operator">=</span> <span class="number">7.0</span><span class="punctuation">,</span> y <span class="operator">=</span> <span class="number">0.5</span><span class="punctuation">,</span> yend <span class="operator">=</span> <span class="number">2.5</span><span class="punctuation">)</span><span class="punctuation">,</span> colour <span class="operator">=</span> <span class="string">&quot;gold&quot;</span><span class="punctuation">,</span> size <span class="operator">=</span> <span class="number">2</span><span class="punctuation">)</span> <span class="operator">+</span></span><br><span class="line">  geom_segment<span class="punctuation">(</span>aes<span class="punctuation">(</span>x <span class="operator">=</span> <span class="number">15.0</span><span class="punctuation">,</span> xend <span class="operator">=</span> <span class="number">15.0</span><span class="punctuation">,</span> y <span class="operator">=</span> <span class="number">0.5</span><span class="punctuation">,</span> yend <span class="operator">=</span> <span class="number">2.5</span><span class="punctuation">)</span><span class="punctuation">,</span> colour <span class="operator">=</span> <span class="string">&quot;black&quot;</span><span class="punctuation">,</span> size <span class="operator">=</span> <span class="number">2</span><span class="punctuation">)</span> <span class="operator">+</span></span><br><span class="line">  geom_segment<span class="punctuation">(</span>aes<span class="punctuation">(</span>x <span class="operator">=</span> <span class="number">18.5</span><span class="punctuation">,</span> xend <span class="operator">=</span> <span class="number">18.5</span><span class="punctuation">,</span> y <span class="operator">=</span> <span class="number">0.5</span><span class="punctuation">,</span> yend <span class="operator">=</span> <span class="number">2.5</span><span class="punctuation">)</span><span class="punctuation">,</span> colour <span class="operator">=</span> <span class="string">&quot;#00BFFF&quot;</span><span class="punctuation">,</span> size <span class="operator">=</span> <span class="number">2</span><span class="punctuation">)</span></span><br><span class="line">tree</span><br></pre></td></tr></table></figure>
+
+<p>可以看到，对于水平色带，设置了一个 x坐标范围，但为了得到一条直线，设置了两个y坐标的相同值，而对于垂直线，则设置了相反的值。还可以使用颜色和大小参数分别改变彩带的颜色和厚度。</p>
+<p><strong>运行效果如下：</strong></p>
+<p><img src="https://s1.328888.xyz/2022/06/01/5SvGR.png" alt="5SvGR.png"></p>
+<h3 id="Step-5：添加祝福语"><a href="#Step-5：添加祝福语" class="headerlink" title="Step 5：添加祝福语"></a>Step 5：添加祝福语</h3><p>为了使图片美观，我们使用<strong>extrafont</strong>包导入一些额外的字体。</p>
+<figure class="highlight r"><table><tr><td class="code"><pre><span class="line"><span class="comment">#载入extrafont程揖包</span></span><br><span class="line"><span class="comment">#若未提前安装程揖包需在console窗口执行以下指令</span></span><br><span class="line"><span class="comment">#install.packages(&quot;extrafont&quot;)</span></span><br><span class="line">library<span class="punctuation">(</span>extrafont<span class="punctuation">)</span></span><br><span class="line">font_import<span class="punctuation">(</span><span class="punctuation">)</span></span><br><span class="line">loadfonts<span class="punctuation">(</span><span class="punctuation">)</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># Calling Windows Fonts</span></span><br><span class="line">windowsFonts<span class="punctuation">(</span>Times_New_Roman<span class="operator">=</span>windowsFont<span class="punctuation">(</span><span class="string">&quot;Luminari&quot;</span><span class="punctuation">)</span><span class="punctuation">)</span></span><br><span class="line"></span><br><span class="line">tree <span class="operator">&lt;-</span> tree <span class="operator">+</span></span><br><span class="line">  annotate<span class="punctuation">(</span><span class="string">&quot;text&quot;</span><span class="punctuation">,</span> x <span class="operator">=</span> <span class="number">11</span><span class="punctuation">,</span> y <span class="operator">=</span> <span class="number">20</span><span class="punctuation">,</span> label <span class="operator">=</span> <span class="string">&quot;Merry Christmas!&quot;</span><span class="punctuation">,</span> </span><br><span class="line">           family <span class="operator">=</span> <span class="string">&quot;Luminari&quot;</span><span class="punctuation">,</span> size <span class="operator">=</span> <span class="number">12</span><span class="punctuation">,</span>color<span class="operator">=</span><span class="string">&quot;white&quot;</span><span class="punctuation">)</span></span><br><span class="line">tree</span><br><span class="line"></span><br><span class="line"><span class="comment">#载入ggThemeAssist程揖包</span></span><br><span class="line"><span class="comment">#若未提前安装程揖包需在console窗口执行以下指令</span></span><br><span class="line"><span class="comment">#install.packages(&#x27;ggThemeAssist&#x27;)</span></span><br><span class="line">library<span class="punctuation">(</span>ggThemeAssist<span class="punctuation">)</span>  </span><br><span class="line">ggThemeAssistGadget<span class="punctuation">(</span>tree<span class="punctuation">)</span></span><br><span class="line">tree <span class="operator">+</span> theme<span class="punctuation">(</span>plot.subtitle <span class="operator">=</span> element_text<span class="punctuation">(</span>family <span class="operator">=</span> <span class="string">&quot;Bookman&quot;</span><span class="punctuation">,</span></span><br><span class="line">    face <span class="operator">=</span> <span class="string">&quot;italic&quot;</span><span class="punctuation">,</span> colour <span class="operator">=</span> <span class="string">&quot;white&quot;</span><span class="punctuation">)</span><span class="punctuation">,</span> plot.caption <span class="operator">=</span> element_text<span class="punctuation">(</span>family <span class="operator">=</span> <span class="string">&quot;Bookman&quot;</span><span class="punctuation">,</span></span><br><span class="line">    size <span class="operator">=</span> <span class="number">15</span><span class="punctuation">,</span> face <span class="operator">=</span> <span class="string">&quot;bold.italic&quot;</span><span class="punctuation">,</span> colour <span class="operator">=</span> <span class="string">&quot;white&quot;</span><span class="punctuation">)</span><span class="punctuation">,</span></span><br><span class="line">    panel.grid.major <span class="operator">=</span> element_line<span class="punctuation">(</span>colour <span class="operator">=</span> <span class="string">&quot;green4&quot;</span><span class="punctuation">)</span><span class="punctuation">,</span></span><br><span class="line">    panel.background <span class="operator">=</span> element_rect<span class="punctuation">(</span>fill <span class="operator">=</span> <span class="string">&quot;brown3&quot;</span><span class="punctuation">)</span><span class="punctuation">,</span></span><br><span class="line">    plot.background <span class="operator">=</span> element_rect<span class="punctuation">(</span>fill <span class="operator">=</span> <span class="string">&quot;seagreen4&quot;</span><span class="punctuation">,</span></span><br><span class="line">        colour <span class="operator">=</span> <span class="literal">NA</span><span class="punctuation">,</span> size <span class="operator">=</span> <span class="number">1</span><span class="punctuation">)</span><span class="punctuation">)</span> <span class="operator">+</span>labs<span class="punctuation">(</span>x <span class="operator">=</span> <span class="literal">NULL</span><span class="punctuation">,</span> y <span class="operator">=</span> <span class="literal">NULL</span><span class="punctuation">,</span> caption <span class="operator">=</span> <span class="string">&quot;Work By WangHao&quot;</span><span class="punctuation">)</span></span><br><span class="line"></span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<p>使用带有 “text”参数的注释选项来插入“Merry Christmas!”字样 。</p>
+<p>位置选在坐标(11,20)处。字体选择的是大小为 12 的 <em>Luminari</em>，如要修改字体，可以通过 family 和size 参数来设置。</p>
+<p>**ggThemeAssistGadget(图名)**用来交互式的设置图片细节，通过窗口选择想要的属性后点击Done则会自动生成代码插入。</p>
+<p><img src="https://s1.328888.xyz/2022/06/01/5SZFS.png" alt="5SZFS.png"></p>
+<p><strong>最终效果如下：</strong></p>
+<p><img src="https://s1.328888.xyz/2022/06/01/5SnTq.png" alt="5SnTq.png"></p>
+<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><p><strong>[1] <a href="https://t-redactyl.io/blog/2016/12/a-very-ggplot2-christmas.html">https://t-redactyl.io/blog/2016/12/a-very-ggplot2-christmas.html</a></strong></p>
+]]></content>
+      <categories>
+        <category>R语言</category>
+      </categories>
+      <tags>
+        <tag>🔥R</tag>
+        <tag>📌ggplot2</tag>
+        <tag>👀可视化</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>大学生性心理健康指导手册-性少数话题</title>
+    <url>/2022/05/13/%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%80%A7%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E6%8C%87%E5%AF%BC%E6%89%8B%E5%86%8C-%E6%80%A7%E5%B0%91%E6%95%B0%E8%AF%9D%E9%A2%98/</url>
+    <content><![CDATA[<p>​    “性”在我们的社会文化中，往往是一个难以启齿的话题。马斯洛在其需求层次理论中指出：性的需求作为人的生理需要，是人的需要中最重要，最有力量的。遗憾的是，我们常常选择忽略甚至漠视“性”这个伴随我们每一个人一生的命题。从性相关的教育来看，无论是家庭教育还是幼儿园到大学的学校教育，我们从中所习得的性健康知识往往是匮乏的、难成体系的；还有些“性健康知识”甚至是错误的，这样的错误知识不仅会对我们的生理造成伤害，而且会对我们的心理产生不良影响。由此可见，全面且正向的性教育对一个人成长与发展有着不容小觑的作用。      </p>
+<p>​     南京大学红十字会生命健康主题教育中心，作为生命健康教育的重要组织，积极配合省市红十字会、校医院等部门开展各类性教育、防艾教育活动。编写本系列手册也旨在推动中心的校园性教育工作的开展，为广大同学提供健康且正向的性健康知识。</p>
+<p>​    本系列手册内容是基于<strong>吉林大学学生心理健康指导中心和清华大学学生心理发展指导中心</strong>共同策划编制的科普读本–<strong>《大学生性心理健康指导手册》</strong>进行整理、删添、修改而成的，非常感谢参与原读本编撰的清华大学的七位实习咨询师和一位心理系访问学者，她们是刘静远、徐庆琪、张逸梅、沈雨瞳、王新洋、赵妹迪（统筹定稿）、王爽和王凯丽，及修订编撰的是吉林大学学生心理健康指导中心的五位老师和一位实习咨询师，她们是何思彤（统稿定稿）、汤晓、张琳、余丽军、王薇、杨紫豪。本手册部分内容参考<strong>北京师范大学爱与生命儿童性教育课题组</strong>的相关文章及研究成果。</p>
+<p>​    本系列手册的再排版、修改、删添是由<strong>南京大学红十字会生命健康主题教育中心</strong>同伴教育主持人王昊（性少数话题、性别认同与性别焦虑话题、性传播疾病话题、艾滋病话题）、向紫叶（自慰话题、性侵害与创伤话题、安全避孕话题、性行为话题）进行的。<strong>本系列手册中，与原版手册不同的内容不代表原版手册作者、机构等的立场。</strong>手册中的图片、标识等均来自网络。手册编写仓促，若有不妥之处还请予以指正。</p>
+<p>​    本系列手册，仅供南京大学学生参考学习，<strong>不得用作任何商业用途及其他以盈利为目的的用途</strong>，手册的转载、复制、影印等应征求原手册版权方：吉林大学学生心理健康指导中心，及部分内容修订、再版方：南京大学红十字会生命健康主题教育中心的同意。</p>
+<p>​    前人栽树，后人乘凉！再次感谢吉林大学学生心理健康指导中心和清华大学学生心理发展指导中心及北京师范大学爱与生命儿童性教育课题组的付出和努力！相信在各方的共同努力下，我国的性教育将会百尺竿头，更进一步！</p>
+<h4><center>大学生性心理健康指导手册-性少数话题</center>
+<br>
+
+	<div class="row">
+    <embed src="./lgbtq.pdf" width="100%" height="550" type="application/pdf">
+	</div>
+
+
+<br>
+</h4>]]></content>
+      <categories>
+        <category>性教育</category>
+      </categories>
+      <tags>
+        <tag>👄性教育</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>大学生性心理健康指导手册-艾滋病话题</title>
+    <url>/2022/05/13/%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%80%A7%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E6%8C%87%E5%AF%BC%E6%89%8B%E5%86%8C-%E8%89%BE%E6%BB%8B%E7%97%85%E8%AF%9D%E9%A2%98/</url>
+    <content><![CDATA[<p>​    “性”在我们的社会文化中，往往是一个难以启齿的话题。马斯洛在其需求层次理论中指出：性的需求作为人的生理需要，是人的需要中最重要，最有力量的。遗憾的是，我们常常选择忽略甚至漠视“性”这个伴随我们每一个人一生的命题。从性相关的教育来看，无论是家庭教育还是幼儿园到大学的学校教育，我们从中所习得的性健康知识往往是匮乏的、难成体系的；还有些“性健康知识”甚至是错误的，这样的错误知识不仅会对我们的生理造成伤害，而且会对我们的心理产生不良影响。由此可见，全面且正向的性教育对一个人成长与发展有着不容小觑的作用。      </p>
+<p>​     南京大学红十字会生命健康主题教育中心，作为生命健康教育的重要组织，积极配合省市红十字会、校医院等部门开展各类性教育、防艾教育活动。编写本系列手册也旨在推动中心的校园性教育工作的开展，为广大同学提供健康且正向的性健康知识。</p>
+<p>​    本系列手册内容是基于<strong>吉林大学学生心理健康指导中心和清华大学学生心理发展指导中心</strong>共同策划编制的科普读本–<strong>《大学生性心理健康指导手册》</strong>进行整理、删添、修改而成的，非常感谢参与原读本编撰的清华大学的七位实习咨询师和一位心理系访问学者，她们是刘静远、徐庆琪、张逸梅、沈雨瞳、王新洋、赵妹迪（统筹定稿）、王爽和王凯丽，及修订编撰的是吉林大学学生心理健康指导中心的五位老师和一位实习咨询师，她们是何思彤（统稿定稿）、汤晓、张琳、余丽军、王薇、杨紫豪。本手册部分内容参考<strong>北京师范大学爱与生命儿童性教育课题组</strong>的相关文章及研究成果。</p>
+<p>​    本系列手册的再排版、修改、删添是由<strong>南京大学红十字会生命健康主题教育中心</strong>同伴教育主持人王昊（性少数话题、性别认同与性别焦虑话题、性传播疾病话题、艾滋病话题）、向紫叶（自慰话题、性侵害与创伤话题、安全避孕话题、性行为话题）进行的。<strong>本系列手册中，与原版手册不同的内容不代表原版手册作者、机构等的立场。</strong>手册中的图片、标识等均来自网络。手册编写仓促，若有不妥之处还请予以指正。</p>
+<p>​    本系列手册，仅供南京大学学生参考学习，<strong>不得用作任何商业用途及其他以盈利为目的的用途</strong>，手册的转载、复制、影印等应征求原手册版权方：吉林大学学生心理健康指导中心，及部分内容修订、再版方：南京大学红十字会生命健康主题教育中心的同意。</p>
+<p>​    前人栽树，后人乘凉！再次感谢吉林大学学生心理健康指导中心和清华大学学生心理发展指导中心及北京师范大学爱与生命儿童性教育课题组的付出和努力！相信在各方的共同努力下，我国的性教育将会百尺竿头，更进一步！</p>
+<h4><center>大学生性心理健康指导手册-艾滋病话题</center>
+
+<p><br>
+
+	<div class="row">
+    <embed src="./hiv.pdf" width="100%" height="550" type="application/pdf">
+	</div>
+
+
+<br></p>
+</h4>]]></content>
+      <categories>
+        <category>性教育</category>
+      </categories>
+      <tags>
+        <tag>👄性教育</tag>
+      </tags>
+  </entry>
+</search>

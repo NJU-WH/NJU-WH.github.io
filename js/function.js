@@ -1,0 +1,1 @@
+coverColor(), addRightMenuClickEvent(), navTitle(), topPostScroll(), topCategoriesBarScroll(), sayhi(), addTag(), stopImgRightDrag(), addFriendLinksInFooter(), qrcodeCreate(), setTimeout("hidecookie()", 3e3), addNavBackgroundInit()
