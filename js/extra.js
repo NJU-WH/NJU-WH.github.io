@@ -1,91 +1,68 @@
 let pjaxSelectors = [
-        'title',
-        '#config-diff',
-        '#body-wrap',
-        '#rightside-config-hide',
-        '#rightside-config-show',
-        '.js-pjax'
-      ]
+    'title',
+    '#config-diff',
+    '#body-wrap',
+    '#rightside-config-hide',
+    '#rightside-config-show',
+    '.js-pjax'
+]
 
-      if (false) {
-        pjaxSelectors.unshift('meta[property="og:image"]', 'meta[property="og:title"]', 'meta[property="og:url"]')
-      }
+if (false) {
+    pjaxSelectors.unshift('meta[property="og:image"]', 'meta[property="og:title"]', 'meta[property="og:url"]')
+}
 
-      var pjax = new Pjax({
-        elements: 'a:not([target="_blank"])',
-        selectors: pjaxSelectors,
-        cacheBust: false,
-        analytics: false,
-        scrollRestoration: false
-      })
+var pjax = new Pjax({
+    elements: 'a:not([target="_blank"])',
+    selectors: pjaxSelectors,
+    cacheBust: false,
+    analytics: false,
+    scrollRestoration: false
+})
 
-      document.addEventListener('pjax:send', function () {
+document.addEventListener('pjax:complete', function() {
+    window.refreshFn()
 
-        // removeEventListener toc scroll 
-        window.removeEventListener('scroll', window.tocScrollFn)
+    document.querySelectorAll('script[data-pjax]').forEach(item => {
+        const newScript = document.createElement('script')
+        const content = item.text || item.textContent || item.innerHTML || ""
+        Array.from(item.attributes).forEach(attr => newScript.setAttribute(attr.name, attr.value))
+        newScript.appendChild(document.createTextNode(content))
+        item.parentNode.replaceChild(newScript, item)
+    })
 
-        typeof preloader === 'object' && preloader.initLoading()
+    GLOBAL_CONFIG.islazyload && window.lazyLoadInstance.update()
 
-        if (window.aplayers) {
-          for (let i = 0; i < window.aplayers.length; i++) {
-            if (!window.aplayers[i].options.fixed) {
-              window.aplayers[i].destroy()
-            }
-          }
-        }
+    typeof chatBtnFn === 'function' && chatBtnFn()
+    typeof panguInit === 'function' && panguInit()
 
-        typeof typed === 'object' && typed.destroy()
+    // google analytics
+    typeof gtag === 'function' && gtag('config', '', { 'page_path': window.location.pathname });
 
-        //reset readmode
-        const $bodyClassList = document.body.classList
-        $bodyClassList.contains('read-mode') && $bodyClassList.remove('read-mode')
+    // baidu analytics
+    typeof _hmt === 'object' && _hmt.push(['_trackPageview', window.location.pathname]);
 
-      })
+    typeof loadMeting === 'function' && document.getElementsByClassName('aplayer').length && loadMeting()
 
-      document.addEventListener('pjax:complete', function () {
-        window.refreshFn()
+    // Analytics
+    if (false) {
+        MtaH5.pgv()
+    }
 
-        document.querySelectorAll('script[data-pjax]').forEach(item => {
-          const newScript = document.createElement('script')
-          const content = item.text || item.textContent || item.innerHTML || ""
-          Array.from(item.attributes).forEach(attr => newScript.setAttribute(attr.name, attr.value))
-          newScript.appendChild(document.createTextNode(content))
-          item.parentNode.replaceChild(newScript, item)
-        })
+    // prismjs
+    typeof Prism === 'object' && Prism.highlightAll()
 
-        GLOBAL_CONFIG.islazyload && window.lazyLoadInstance.update()
+    typeof preloader === 'object' && preloader.endLoading()
+})
 
-        typeof chatBtnFn === 'function' && chatBtnFn()
-        typeof panguInit === 'function' && panguInit()
+document.addEventListener('pjax:error', (e) => {
+    if (e.request.status === 404) {
+        pjax.loadUrl('/404.html')
+    }
+})
 
-        // google analytics
-        typeof gtag === 'function' && gtag('config', '', { 'page_path': window.location.pathname });
-
-        // baidu analytics
-        typeof _hmt === 'object' && _hmt.push(['_trackPageview', window.location.pathname]);
-
-        typeof loadMeting === 'function' && document.getElementsByClassName('aplayer').length && loadMeting()
-
-        // Analytics
-        if (false) {
-          MtaH5.pgv()
-        }
-
-        // prismjs
-        typeof Prism === 'object' && Prism.highlightAll()
-
-        typeof preloader === 'object' && preloader.endLoading()
-      })
-
-      document.addEventListener('pjax:error', (e) => {
-        if (e.request.status === 404) {
-          pjax.loadUrl('/404.html')
-        }
-      })
-
-      document.addEventListener('pjax:success', (e) => {
-        categoriesBarActive()
-        tagPageActive()
-        onlyHome()
-        addNavBackgroundInit()
-      })
+document.addEventListener('pjax:success', (e) => {
+    categoriesBarActive()
+    tagPageActive()
+    onlyHome()
+    addNavBackgroundInit()
+})
